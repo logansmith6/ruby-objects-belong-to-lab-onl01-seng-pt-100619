@@ -8,7 +8,6 @@ class Author
     @name = name
   end
 
-
+#journal_entry = Post.new("Day Six")
 
 end
-journal_entry = Post.new("Day Six")
