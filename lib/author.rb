@@ -1,6 +1,6 @@
 require 'pry'
 
-class Author < Post
+class Author 
   attr_accessor :name
 
 
