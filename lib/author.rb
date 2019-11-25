@@ -6,7 +6,8 @@ class Author
 
   def self.initialize(name)
     @name = name
-
   end
+
+  journal_entry = Post.new("Day Six")
 
 end
