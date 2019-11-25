@@ -6,7 +6,6 @@ class Post
 
   def self.initialize(title)
     @title = title
-
   end
 
 end
