@@ -8,7 +8,6 @@ class Post
     @title = title
   end
 
-post.author = author
 
 
 end
